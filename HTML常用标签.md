@@ -35,6 +35,15 @@
 - th 表示table head，表示表格的表头一行
 - td 表示table data，表示表格中的单元格
 
+## ol
+ol即有序列表 ordered list
+列表中的项目用<li>表示
+## ul
+ul即无序列表 unordered lists
+列表中的项目用<li>表示
+
+## code
+<code>可以呈现一段代码。默认情况下，它以浏览器的默认等宽字体显示。
 
 
 ## 总结
